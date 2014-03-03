@@ -1,8 +1,4 @@
-    html { 
-        position: relative; 
-        font: 300 112.5%/1.65 "Titillium Web", sans-serif; 
-        color: #e4e4e4;
-    }
+    html {position: relative;font: 300 112.5%/1.65 "Titillium Web", sans-serif;color: #e4e4e4;}
     *:before, *:after { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; padding: 0; margin: 0; }
     html, body { width: 100%; min-height: 100%; }
     body { margin: 0; padding: 0; font-weight: 200; letter-spacing: 0.1rem; }
