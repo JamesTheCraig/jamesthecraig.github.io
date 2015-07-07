@@ -1,7 +1,0 @@
-    html {position: relative;font: 300 112.5%/1.65 "Titillium Web", sans-serif;color: #e4e4e4;}
-    *:before, *:after { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; padding: 0; margin: 0; }
-    html, body { width: 100%; min-height: 100%; }
-    body { margin: 0; padding: 0; font-weight: 200; letter-spacing: 0.1rem; }
-    body::before { content: ''; position: absolute; top: 0px; left: 0px; min-width: 100%; min-height: 100%; z-index: -1; background-image: -webkit-gradient(linear, 0% 0%, 100% 100%, color-stop(0%, #9e9da4), color-stop(50%, #8895a1), color-stop(100%, #9e9da4)); background-image: -webkit-linear-gradient(left top, #9e9da4 0%, #8895a1 50%, #9e9da4 100%); background-image: -moz-linear-gradient(left top, #9e9da4 0%, #8895a1 50%, #9e9da4 100%); background-image: -o-linear-gradient(left top, #9e9da4 0%, #8895a1 50%, #9e9da4 100%); background-image: -ms-linear-gradient(left top, #9e9da4 0%, #8895a1 50%, #9e9da4 100%); background-image: linear-gradient(left top, #9e9da4 0%, #8895a1 50%, #9e9da4 100%); pointer-events: none; opacity: 0.75; }    
-    .overlay {position: fixed;top: 0;left: 0;bottom: 0;right: 0;background-image: url(../img/pattern.png); z-index: 3;pointer-events: none;
-    }
